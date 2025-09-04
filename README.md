@@ -6,6 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/katuri_aravind" target="blank"><img src="https://img.shields.io/twitter/follow/katuri_aravind?logo=twitter&style=for-the-badge" alt="katuri_aravind" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aravindkaturi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 - 🌱 I’m currently learning **Terraform,MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aravindkaturi/Projects](https://github.com/Aravindkaturi/Projects)
@@ -37,4 +42,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aravindkaturi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aravindkaturi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aravindkaturi&icon=0&color=0)](https://visitcount.itsvg.in)
